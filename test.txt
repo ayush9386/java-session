@@ -5,8 +5,16 @@ Operators
 Oops topic
 etc
 
+some more topic add
+i. array
+ii. string
+iii. don't know
 
 thank u
 
 
+done my changes
+
+
 done with the text file
+
