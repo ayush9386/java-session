@@ -7,3 +7,6 @@ etc
 
 
 thank u
+
+
+done with the text file
